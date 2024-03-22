@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a [LibrePCB](https://librepcb.org) conversion of the [SparkFun Eagle])(https://github.com/sparkfun/SparkFun-Eagle-Libraries) library. It does not contain all parts/footprints (yet).
+This is a [LibrePCB](https://librepcb.org) conversion of the [SparkFun Eagle](https://github.com/sparkfun/SparkFun-Eagle-Libraries) library. It does not contain all parts/footprints (yet).
 
 ## Notable differences
 
