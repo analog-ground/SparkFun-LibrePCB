@@ -1,0 +1,10 @@
+(librepcb_package_category 2323268d-b5ec-4051-9fda-4ec5a76cfb66
+ (name "MicroMod")
+ (description "")
+ (keywords "")
+ (author "SparkFun, ported by Analog Ground")
+ (version "0.1")
+ (created 2024-03-22T18:57:13Z)
+ (deprecated false)
+ (parent 260d407f-f6e6-448b-9255-0381aa37f357)
+)

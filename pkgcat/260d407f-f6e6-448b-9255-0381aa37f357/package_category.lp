@@ -1,0 +1,10 @@
+(librepcb_package_category 260d407f-f6e6-448b-9255-0381aa37f357
+ (name "SparkFun")
+ (description "")
+ (keywords "")
+ (author "SparkFun, ported by Analog Ground")
+ (version "0.1")
+ (created 2024-03-22T18:55:50Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)

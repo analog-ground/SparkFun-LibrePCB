@@ -7,6 +7,7 @@
  (created 2024-01-24T11:35:26Z)
  (deprecated false)
  (generated_by "")
+ (category 2323268d-b5ec-4051-9fda-4ec5a76cfb66)
  (category 66add33e-fb54-4864-bae3-a899b380cb90)
  (assembly_type mixed)
  (pad 78fb911b-826c-417b-969f-bd15f33c749d (name "GND1"))

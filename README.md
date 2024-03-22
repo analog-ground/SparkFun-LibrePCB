@@ -2,7 +2,12 @@
 
 ## Description
 
-This is a [LibrePCB](https://librepcb.org) conversion of the [SparkFun Eagle])(https://github.com/sparkfun/SparkFun-Eagle-Libraries) library. It does not contain all models (yet).
+This is a [LibrePCB](https://librepcb.org) conversion of the [SparkFun Eagle])(https://github.com/sparkfun/SparkFun-Eagle-Libraries) library. It does not contain all parts/footprints (yet).
+
+## Notable differences
+
+- Not all parts imported
+- MicroMod Connector has a Standoff Footprint Variant to include the hole automatically
 
 ## License
 

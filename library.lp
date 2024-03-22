@@ -6,6 +6,6 @@
  (version "0.1")
  (created 2024-03-22T16:34:36Z)
  (deprecated false)
- (url "")
+ (url "https://github.com/analog-ground/SparkFun-LibrePCB")
  (manufacturer "SparkFun")
 )
